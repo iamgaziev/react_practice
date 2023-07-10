@@ -1,0 +1,15 @@
+.section1{
+    background-image: url(../../assets/big1.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    padding-bottom: 5%;
+}
+.section3{
+    background-image: url(../../assets/as.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
